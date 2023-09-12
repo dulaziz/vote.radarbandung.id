@@ -44,7 +44,7 @@
 
     <link rel="icon" type="image/png" sizes="96x96" href="{{ asset('/img/Radar Bandung Favicon.webp') }}">
     <link rel="stylesheet" href="{{ asset('css/global.css') }}">
-    <title>Polling Radar Bogor | {{ $title }}</title>
+    <title>Polling Radar Bandung | {{ $title }}</title>
   </head>
   <body class="bg-light">
 
