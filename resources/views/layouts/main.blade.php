@@ -13,14 +13,14 @@
     <link href="https://cdn.jsdelivr.net/npm/summernote@0.8.18/dist/summernote-lite.min.css" rel="stylesheet">
     <!-- //Summernote CSS - CDN Link -->
 
-    {{-- Google Analityc --}}
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-NYQDKNF92Z"></script>
+    {{-- Google Analityc Radar Bandung --}}
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-3VFF8TYXB4"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
 
-      gtag('config', 'G-NYQDKNF92Z');
+      gtag('config', 'G-3VFF8TYXB4');
     </script>
 
     {{-- Fancy Box --}}
@@ -42,7 +42,7 @@
     {{-- Aos --}}
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 
-    <link rel="icon" type="image/png" sizes="96x96" href="{{ asset('/img/favicon-96x96.png') }}">
+    <link rel="icon" type="image/png" sizes="96x96" href="{{ asset('/img/Radar Bandung Favicon.webp') }}">
     <link rel="stylesheet" href="{{ asset('css/global.css') }}">
     <title>Polling Radar Bogor | {{ $title }}</title>
   </head>
